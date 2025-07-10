@@ -1,0 +1,22 @@
+#todoForm {
+    width: 100%;
+    padding: 24px;
+    border: 1px solid #bbb;
+    border-radius: 8px;
+}
+button {
+    min-width: 100px;
+    border: none;
+}
+.group-btn {
+    text-align: center;
+}
+.bx-check{
+    color: green
+}
+.bx-x{
+    color: red
+}
+.btn-removeAll{
+
+}
